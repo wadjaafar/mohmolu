@@ -5,8 +5,8 @@ module.exports = {
   siteMetadata: {
     title: 'Mohamed Gafar',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+      'Mohamed Gafar is a software developer specializing in geospatial applications.',
+    siteUrl: 'https://eebax.de/mohmolu', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@wadjaafar',
   },
@@ -21,8 +21,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'MohamedGafar',
+        short_name: 'MohamedGafar',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
