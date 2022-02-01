@@ -7,7 +7,7 @@ module.exports = {
     description:
       'Mohamed Gafar is a software developer specializing in geospatial applications.',
     siteUrl: 'https://eebax.de/mohmolu', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    image: '/thumb.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@wadjaafar',
   },
   plugins: [
