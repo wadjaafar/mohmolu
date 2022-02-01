@@ -27,17 +27,17 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-db8e6711187731ae9340.js"
+    "url": "webpack-runtime-ae890a24e9679be2f4b2.js"
   },
   {
     "url": "framework-aa35e29fbb74d6100667.js"
   },
   {
-    "url": "app-96b52a7301be1bf0f106.js"
+    "url": "app-84a2d8663dcab2fc2d30.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "7386e5ab4269a3f36ec6863b6473c1d0"
+    "revision": "2724c0b49a3c52903d43683566272121"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-50fcc746a3b9bd6c1224.js"
@@ -48,7 +48,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "adf5bf5e25c9ec03ca6fa6cdc35143d7"
+    "revision": "0f2eb5d246105fd8b97b61fb45d06283"
   },
   {
     "url": "polyfill-f4e05b864c9bf93fe2ca.js"
@@ -147,7 +147,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/mohmolu/app-96b52a7301be1bf0f106.js`))) {
+  if (!resources || !(await caches.match(`/mohmolu/app-84a2d8663dcab2fc2d30.js`))) {
     return await fetch(event.request)
   }
 
