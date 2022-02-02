@@ -2,8 +2,6 @@
 date: '2'
 title: 'Travel Time App'
 cover: './demo1.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
 tech:
   - WKT Visualization
   - Google Maps API

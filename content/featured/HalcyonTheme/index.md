@@ -2,8 +2,6 @@
 date: '1'
 title: 'Geoinformation System'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
 tech:
   - OpenLayers
   - JavaScript
