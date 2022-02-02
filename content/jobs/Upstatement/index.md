@@ -6,7 +6,6 @@ location: 'Bonn, germany'
 range: 'September 2020 - Present'
 url: 'https://www.geoinfo.uni-bonn.de/'
 ---
-- Working on the data management of PhenoRob (Robotics and Phenotyping for Sustainable Crop Production). (http://www.phenorob.de/).
-- Development and maintenance of PhenoRob GeoPortal.
-- Devloped web app to handle massive data upload and download.
-- Improved data upload capacity over 100%.
+- Part of the data management team of PhenoRob.
+- Developed and designed a File Uploader using Spring Boot and JavaScript.
+- Increased the file upload capacity from 20GB to 1TB.

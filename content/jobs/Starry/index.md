@@ -7,7 +7,7 @@ range: 'March 2017 - December 2017'
 url: 'https://www.linkedin.com/company/12983066'
 ---
 
-- Co-founded Geo & Innovation a company that provides geospatial services.
-- Developed native Android applications.
+- Co-founded Geo & Innovation a company that provides GIS services.
+- Developed native Android applications using Java, Android SDK.
 - Worked with Google Maps and Places APIs.
-- Created Location-based Android apps that integrate with database structures and web interfaces.
+- Created Location-based Android apps that integrate with MySQL database using web APIs (Spring Boot).

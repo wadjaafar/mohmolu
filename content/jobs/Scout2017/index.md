@@ -7,5 +7,5 @@ range: 'August 2020 - Present'
 url: 'https://www.iais.fraunhofer.de/'
 ---
 
-- Web Developer (JavaScript, ReactJS, Spring Boot, Semantic Web).
-- Developed and maintend frontend applications.
+- Developed and maintained web applications
+- Created a form generator from ontologies using ReactJS, JavaScript, Spring Boot and Semantic Web
