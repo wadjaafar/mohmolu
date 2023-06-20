@@ -3,7 +3,7 @@ date: '2019-01-01'
 title: 'Co-Founder - Android/iOS Developer'
 company: 'Solus'
 location: 'Khartoum, Sudan'
-range: 'January 2019 - Novermber 2019'
+range: 'January 2019 - December 2019'
 url: 'https://soluspay.net/'
 ---
 

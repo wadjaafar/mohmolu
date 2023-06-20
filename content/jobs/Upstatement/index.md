@@ -3,7 +3,7 @@ date: '2020-09-15'
 title: 'GIS Developer'
 company: 'Uni Bonn'
 location: 'Bonn, germany'
-range: 'September 2020 - Present'
+range: 'September 2020 - April 2023'
 url: 'https://www.geoinfo.uni-bonn.de/'
 ---
 - Member of the Geoinformation working group.

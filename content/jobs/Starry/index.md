@@ -3,7 +3,7 @@ date: '2017-03-01'
 title: 'Co-Founder - Android Developer'
 company: 'Geo & Innovation'
 location: 'Kharotum, Sudan'
-range: 'March 2017 - December 2017'
+range: 'February 2017 - December 2017'
 url: 'https://www.linkedin.com/company/12983066'
 ---
 
